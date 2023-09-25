@@ -1,6 +1,8 @@
 # FusionForce
 Project for Vertically Intagrated Project (VIP) 1
 
+![](diagram.jpg)
+
 1. Initialize the SDS011 sensor.
 2. Read fine dust concentration data from the SDS011 sensor using PySerial.
 
