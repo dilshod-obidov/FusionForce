@@ -1,7 +1,16 @@
 # FusionForce
 Project for Vertically Intagrated Project (VIP) 1
 
-![](diagram.jpg)
+## Team Members:
+- Dilshod Obidov (12225243) (Team Leader)
+- WooSeok Kang (12213968)
+- Nilufar Kurbonova (12225241)
+- 
+
+---
+## Air-purifier Robot with Turtlebot3
+
+---
 
 1. Initialize the SDS011 sensor.
 2. Read fine dust concentration data from the SDS011 sensor using PySerial.
