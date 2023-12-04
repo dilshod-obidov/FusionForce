@@ -5,11 +5,11 @@ Project for Vertically Intagrated Project (VIP) 1
 - Dilshod Obidov (12225243) (Team Leader)
 - WooSeok Kang (12213968)
 - Nilufar Kurbonova (12225241)
-- 
+- Avazbek Kakhkhorov (12194876)
 
 ---
 ## Air-purifier Robot with Turtlebot3
-
+- *description by WooSeok Kang 
 ---
 
 1. Initialize the SDS011 sensor.
