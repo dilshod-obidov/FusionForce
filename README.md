@@ -1,6 +1,8 @@
 # FusionForce
 Project for Vertically Intagrated Project (VIP) 1
 
+Link For Video Presentation: https://youtu.be/9t4-OOXv5ls?si=h2Sat-QBocdZwFZq
+
 ## Team Members:
 - Dilshod Obidov (12225243) (Team Leader)
 - WooSeok Kang (12213968)
